@@ -411,11 +411,16 @@ To change uBOL's [default filtering mode](https://github.com/uBlockOrigin/uBOL-h
 2. Click on the cogwheel icon (⚙️) to access the dashboard.
 3. Choose either **Optimal** or **Complete**.
 
-![Screenshot_18-3-2025_124212_cimighlppcgcoapaliogpjjdehbnofhn](https://github.com/user-attachments/assets/180fd4ac-75e9-48b8-b282-d52d4b56f319)
+<img width="994" height="704" alt="uBOL Default 9 6" src="https://github.com/user-attachments/assets/b84e00ef-5fdb-4a6e-85a0-8f466650cc22" />
 
 For the best balance between blocking unwanted content and low resource usage, set the default mode to **Optimal**. This will ensure better overall blocking performance without significantly impacting your browsing experience.
 
 If you don't want to fiddle with the settings ever again and aren't concerned about resource usage, then choose **Complete**.
+
+### Behavior
+
+<img width="978" height="460" alt="uBo Behavior 9 6" src="https://github.com/user-attachments/assets/0acee5a0-1422-43ba-b3c1-326aaaeb955d" />
+
 
 ### Specific websites
 
@@ -431,7 +436,7 @@ To change the filtering level for a specific site:
 You can also lower the filtering mode for a site by moving the slider to **Basic** or **No Filtering**.
 
 ### Recommended filters for uBlock Origin Lite
-<img width="520" height="1072" alt="uboLite 6 9 2026" src="https://github.com/user-attachments/assets/82629223-7b6a-4582-982f-288544f82f5d" />
+<img width="540" height="1058" alt="uBO lists dark" src="https://github.com/user-attachments/assets/f2ff6a3a-28a7-4d80-a1cb-bf26a1191a84" />
 
 ***
 
